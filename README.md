@@ -83,3 +83,5 @@ We'll need to create the routes and controller methods to handle each of these f
 - Make a `UsersController#show` method. It should:
   - Find a user in the database using the user id from the session hash
   - Return the user as a JSON object
+
+https://github.com/G3o-R/phase-4-authenticating-users-lab
